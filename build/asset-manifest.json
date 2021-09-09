@@ -1,24 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.8f40bca3.chunk.css",
-    "main.js": "/static/js/main.d6a7713f.chunk.js",
-    "main.js.map": "/static/js/main.d6a7713f.chunk.js.map",
+    "main.css": "/static/css/main.9252397e.chunk.css",
+    "main.js": "/static/js/main.1ec23abb.chunk.js",
+    "main.js.map": "/static/js/main.1ec23abb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.931e61bc.js",
     "runtime-main.js.map": "/static/js/runtime-main.931e61bc.js.map",
     "static/js/2.46ba642d.chunk.js": "/static/js/2.46ba642d.chunk.js",
     "static/js/2.46ba642d.chunk.js.map": "/static/js/2.46ba642d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.8f40bca3.chunk.css.map": "/static/css/main.8f40bca3.chunk.css.map",
+    "static/css/main.9252397e.chunk.css.map": "/static/css/main.9252397e.chunk.css.map",
     "static/js/2.46ba642d.chunk.js.LICENSE.txt": "/static/js/2.46ba642d.chunk.js.LICENSE.txt",
     "static/media/Maple.fbd77820.jpg": "/static/media/Maple.fbd77820.jpg",
+    "static/media/ccsf-logo.31a7fa3c.jpg": "/static/media/ccsf-logo.31a7fa3c.jpg",
+    "static/media/contact.d3a7b0f9.jpg": "/static/media/contact.d3a7b0f9.jpg",
     "static/media/future.11e43ee4.jpg": "/static/media/future.11e43ee4.jpg",
     "static/media/past.969044af.jpg": "/static/media/past.969044af.jpg",
-    "static/media/present.603c77e8.jpg": "/static/media/present.603c77e8.jpg"
+    "static/media/present.603c77e8.jpg": "/static/media/present.603c77e8.jpg",
+    "static/media/smu-logo.895a9ca6.jpeg": "/static/media/smu-logo.895a9ca6.jpeg",
+    "static/media/temp.d9a55b6e.JPG": "/static/media/temp.d9a55b6e.JPG",
+    "static/media/ucla-logo.adf8e887.jpeg": "/static/media/ucla-logo.adf8e887.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.931e61bc.js",
     "static/js/2.46ba642d.chunk.js",
-    "static/css/main.8f40bca3.chunk.css",
-    "static/js/main.d6a7713f.chunk.js"
+    "static/css/main.9252397e.chunk.css",
+    "static/js/main.1ec23abb.chunk.js"
   ]
 }
